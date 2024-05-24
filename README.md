@@ -1,5 +1,5 @@
 # Repository Name
-**Short description of the repository**
+***Short description of the repository***
 
 [Built With](#built-with) · [Features](#features) · [Installation](#installation) · [Usage](#usage)
 ## Built With
