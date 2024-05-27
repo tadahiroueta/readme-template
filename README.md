@@ -2,6 +2,7 @@
 ***Short description of the repository***
 
 [Built With](#built-with) · [Features](#features) · [Installation](#installation) · [Usage](#usage)
+
 ## Built With
 <!-- Find more shield at https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file -->
 - ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -36,11 +37,14 @@
 - ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 - ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 - ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
-## Features
-- Featured feature with this and that
-  - I used this along with that to do this thing  
 
-  ![image](https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg)
+## Features
+
+### Featured feature with this and that
+I used this along with that to do this thing  
+
+![image](https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg)
+
 ## Installation
 <!-- Find more language syntax identifiers for code blocks here, https://github.com/jincheng9/markdown_supported_languages -->
 1. Install specific programming language compiler.
@@ -54,11 +58,11 @@
     ```sh
     npm install
     ```
+
 ## Usage
-- Do this
-  1. First
-      ```sh
-      node index
-      ```
+1. First
+    ```sh
+    node index
+    ```
   
   ![image](https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg)
